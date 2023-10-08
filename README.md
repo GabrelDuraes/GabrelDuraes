@@ -9,9 +9,9 @@ Eu sou estudante de Ciências da Computação na faculdade Dom Helder-MG
 </div><br>
 
 <div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrelDuraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/GabrelDuraes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrelDuraes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrelDuraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##Contatos: 
