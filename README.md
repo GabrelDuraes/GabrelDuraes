@@ -14,7 +14,7 @@ Eu sou estudante de Ciências da Computação na faculdade Dom Helder-MG
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrelDuraes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-##Contatos: 
+## Contatos: 
 <div> 
   <a href="https://www.instagram.com/GabrelDuraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielduraes90929@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
