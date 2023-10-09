@@ -1,4 +1,4 @@
-# Olá, me chamo SeuNomeAqui ! 
+# Olá, me chamo Gabriel ! 
 ## Bem vindo ao meu perfil GitHub 👋
 Eu sou estudante de Ciências da Computação na faculdade Dom Helder-MG
 <div style="display: inline_block">
